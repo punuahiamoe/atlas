@@ -20,6 +20,10 @@ files=(
   MEM7
   ARL0
   ARL1
+  CRN0
+  KLL1
+  KLL0
+  KLL2
   RHE1
   RHE2
 )
