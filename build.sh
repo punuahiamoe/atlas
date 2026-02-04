@@ -18,6 +18,8 @@ files=(
   MEM6
   MEM4
   MEM7
+  ARL0
+  ARL1
   RHE1
   RHE2
 )
