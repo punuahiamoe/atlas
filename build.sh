@@ -18,6 +18,8 @@ files=(
   MEM6
   MEM4
   MEM7
+  RHE1
+  RHE2
 )
 
 read -s -p "PIN " iter; echo
