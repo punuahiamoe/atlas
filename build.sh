@@ -9,12 +9,14 @@ mkdir assets
 
 files=(
   MEM0
+  RHE0
   MEM1
+  BLV0
   MEM2
   MEM3
-  MEM4
   MEM5
   MEM6
+  MEM4
   MEM7
 )
 
