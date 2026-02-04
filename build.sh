@@ -30,6 +30,10 @@ files=(
   MEM8
   STE1
   AUG0
+  AUG8
+  AUG9
+  AUG6
+  AUG7
   MEM4
   MEM7
 )
@@ -65,4 +69,3 @@ unset iter pass
 export HTMLBODY=$( cat body.html )
 awk '{gsub(/\${HTMLBODY}/, ENVIRON["HTMLBODY"], $0); print}' template.html > index.html
 rm body.html
-
