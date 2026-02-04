@@ -10,16 +10,14 @@ mkdir assets
 files=(
   MEM0
   RHE0
-  MEM1
-  BLV0
   MEM2
   MEM3
-  MEM5
-  ALA0
   STE0
   MEM6
-  MEM4
-  MEM7
+  MEM1
+  BLV0
+  MEM5
+  ALA0
   ARL0
   ARL1
   CRN0
@@ -30,6 +28,8 @@ files=(
   RHE2
   ALA1
   MEM8
+  MEM4
+  MEM7
 )
 
 read -s -p "PIN " iter; echo
