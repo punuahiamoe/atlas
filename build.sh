@@ -15,6 +15,8 @@ files=(
   MEM2
   MEM3
   MEM5
+  ALA0
+  STE0
   MEM6
   MEM4
   MEM7
@@ -26,6 +28,8 @@ files=(
   KLL2
   RHE1
   RHE2
+  ALA1
+  MEM8
 )
 
 read -s -p "PIN " iter; echo
