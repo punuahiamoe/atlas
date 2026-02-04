@@ -1,0 +1,35 @@
+files=(
+  MEM0
+  RHE0
+  STE0
+  MEM6
+  MEM2
+  MEM4
+  MEM3
+  AMR0
+  HIL0
+  ARA0
+  MEM1
+  BLV0
+  MEM5
+  ALA0
+  ARL0
+  ARL1
+  CRN0
+  KLL1
+  KLL0
+  KLL2
+  RHE1
+  RHE2
+  ALA1
+  MEM8
+  STE1
+  AUG0
+  AUG8
+  AUG9
+  AUG6
+  AUG7
+  AMR1
+  MEM7
+)
+
