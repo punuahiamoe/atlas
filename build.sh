@@ -12,6 +12,10 @@ files=(
   MEM1
   MEM2
   MEM3
+  MEM4
+  MEM5
+  MEM6
+  MEM7
 )
 
 read -s -p "PIN " iter; echo
