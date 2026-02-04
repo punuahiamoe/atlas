@@ -4,7 +4,11 @@ index=0
 files=(
   AUG1
   AUG2
+  AUGa
+  AUGd
   AUG5
+  AUGb
+  AUGc
   AUG3
   AUG4
 )
