@@ -29,11 +29,11 @@ files=(
   AUG9
   AUG6
   AUG7
-  AMR1
-  MEM7
   SNA1
   ADF0
   ADF1
   SNA0
+  AMR1
+  MEM7
 )
 
