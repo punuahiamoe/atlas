@@ -31,9 +31,9 @@ files=(
   AUG7
   AMR1
   MEM7
-  SNA0
+  SNA1
   ADF0
   ADF1
-  SNA1
+  SNA0
 )
 
