@@ -30,6 +30,7 @@ files=(
   MEM8
   MEM4
   MEM7
+  STE1
 )
 
 read -s -p "PIN " iter; echo
