@@ -10,6 +10,8 @@ mkdir assets
 files=(
   MEM0
   MEM1
+  MEM2
+  MEM3
 )
 
 read -s -p "PIN " iter; echo
