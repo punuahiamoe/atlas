@@ -35,5 +35,9 @@ files=(
   SNA0
   AMR1
   MEM7
+  JIA0
+  NKL0
+  NKL1
+  NKL2
 )
 
