@@ -1,0 +1,53 @@
+files=(
+  AUG1
+  AUG2
+  SLRA
+  ALS0
+  LKL0
+  KCL1
+  KCL2
+  SNK1
+  SNK4
+  ARS2
+  KTM1
+  SWN1
+  CHB1
+  STE4
+  MNT1
+  AMR3
+  IDL2
+  DPK0
+  SPM0
+  STC0
+  SMK1
+  LCD2
+  KIN1
+  ELM1
+  SHA0
+  AUGD #
+  ANS0
+  ARS0
+  MNT0
+  AKB0
+  SHR2
+  KCL0
+  AML1
+  GRSA
+  JIA1
+  IDL0
+  OXN0
+  SNK0
+  AUGC
+  AUG4
+  ARS3
+  DRS0
+  JIA3
+  STE2
+  ELR2
+  KTM2
+  DPK1
+  LTY0
+  TOR5
+  BNC0
+)
+
